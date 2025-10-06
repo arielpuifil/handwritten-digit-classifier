@@ -17,6 +17,6 @@ Thumbs.db
 *.swp
 *.bak
 *.tmp
-
+ 
 *.log
 .cache/
